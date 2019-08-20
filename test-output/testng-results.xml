@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16995" started-at="2019-08-13T03:54:15Z" finished-at="2019-08-13T03:54:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16995" started-at="2019-08-13T03:54:15Z" finished-at="2019-08-13T03:54:32Z">
+      <class name="com.Selenium.KeyboardsAction">
+        <test-method status="PASS" signature="enteringDataInCapsViaKeyBoard()[pri:0, instance:com.Selenium.KeyboardsAction@46d56d67]" name="enteringDataInCapsViaKeyBoard" duration-ms="9353" started-at="2019-08-13T03:54:15Z" finished-at="2019-08-13T03:54:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enteringDataInCapsViaKeyBoard -->
+        <test-method status="PASS" signature="openingLinkInNewTab()[pri:0, instance:com.Selenium.KeyboardsAction@46d56d67]" name="openingLinkInNewTab" duration-ms="7619" started-at="2019-08-13T03:54:24Z" finished-at="2019-08-13T03:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingLinkInNewTab -->
+      </class> <!-- com.Selenium.KeyboardsAction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
