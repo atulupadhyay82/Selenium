@@ -1,0 +1,34 @@
+bhanupratap
+
+model- page object model (locator, element, methods related to it)
+welcome page (basic methods like)
+
+test class- functionality related to page object, assertion 
+
+utility- n no of class can be there. data driven- excel, json, xml and db (utility) 
+
+webdriver utility- initialize the code for firefox, chrome. 
+IE- JS don't work, scolling issues, new window issue, security certificate issues (ssl off ). Pass them in capabilities class.
+
+screenshot utility- full page screenshot issue.Selenium can capture only failed screenshot.
+
+Ashort library need to be use.
+
+Visual regression testing- will reflect the difference between new page and old page changes.
+apletool.
+
+Jenkins integration: devops pipeline (CI/CD pipeline)
+
+reporting- starting with A. best nowdays
+
+testdata challenges- 
+dynamic data (coming from server)
+cross browser challenges
+grid challeges
+
+https://crossbrowsertesting.com/blog/selenium/problems-selenium-webdriver/
+https://www.cigniti.com/blog/challenges-solutions-in-managing-selenium-test-automation/
+https://dzone.com/articles/common-challenges-in-selenium-automation-amp-how-t
+
+postman newman via jenkins, script.
+
